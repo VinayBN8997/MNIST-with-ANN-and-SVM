@@ -1,0 +1,7 @@
+numpy
+sklearn
+pickle
+cv2 (pip install opencv-python)
+matplotlib 
+
+command: pip install "package name"
