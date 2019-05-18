@@ -87,3 +87,12 @@ python3 mnist_project.py -p Testing/ -m "ANN or SVM"
 5. When -m argument is not used, ANN is used by default for both training and testing purpose.
 6. To try with custom data with dashboard support
 python3 mnist_project.py -c Custom/
+
+# Results
+![Screenshot from 2019-05-18 12-24-52](https://user-images.githubusercontent.com/33830482/57965900-57510d00-7968-11e9-81ab-c5b106ca192d.png)
+
+![Screenshot from 2019-05-18 12-25-24](https://user-images.githubusercontent.com/33830482/57965908-7b145300-7968-11e9-84e7-984472a15136.png)
+
+![Screenshot from 2019-05-18 12-26-01](https://user-images.githubusercontent.com/33830482/57965909-7b145300-7968-11e9-99cd-b6b9f94a9f4b.png)
+
+![Screenshot from 2019-05-18 12-26-34](https://user-images.githubusercontent.com/33830482/57965910-7bace980-7968-11e9-901a-a4f4dc87779f.png)
