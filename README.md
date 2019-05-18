@@ -49,7 +49,9 @@ On the execution side, the IDX files are converted into numpy array for training
 
 # Command line arguments:
 -t : To provide the training data directory. Also works as a flag to say whether to train or not.
+
 -p : To provide the testing data directory. Also works as a flag to say whether to test or not.
+
 -m : To decide which algorithm to use ["SVM" or "ANN"]. Default is "ANN"
 
 # SVM: 
