@@ -56,15 +56,22 @@ On the execution side, the IDX files are converted into numpy array for training
 
 # SVM: 
 Link: https://scikit-learn.org/stable/modules/svm.html
+
 Results: gamma = 'scale' , random_state = 1 [To get constant results for a fixed configuration]
+
 Different values of max_iterations [10,20,30,50,100] can be used to train more and more. The more you train, better results are obtained.
 
 # ANN:
 Link: https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+
 Results: solver = 'adam', alpha = 1e-5, random_state = 1 [To get constant results for a fixed configuration]
+
 hidden_layer_sizes = The ith element represents the number of neurons in the ith hidden layer.
+
 Different shapes of hideed layers can be used [(3,2), (5,4), (10,7), (20,15,10), (200,100,50)]
+
 The larger the size, the model learns more parameters, but has a chance of overfitting the training data. 
+
 The attribute max_iterations can also be used in limiting the number of epochs. Default value is 200. It is recommended that, the larger the size of dataset, training for more epochs is helpful.
 
 
