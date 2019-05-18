@@ -94,5 +94,3 @@ python3 mnist_project.py -c Custom/
 ![Screenshot from 2019-05-18 12-25-24](https://user-images.githubusercontent.com/33830482/57965908-7b145300-7968-11e9-84e7-984472a15136.png)
 
 ![Screenshot from 2019-05-18 12-26-01](https://user-images.githubusercontent.com/33830482/57965909-7b145300-7968-11e9-99cd-b6b9f94a9f4b.png)
-
-![Screenshot from 2019-05-18 12-26-34](https://user-images.githubusercontent.com/33830482/57965910-7bace980-7968-11e9-901a-a4f4dc87779f.png)
