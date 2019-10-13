@@ -13,12 +13,12 @@ t10k-images-idx3-ubyte.gz:   test set images (1648877 bytes)
 t10k-labels-idx1-ubyte.gz:   test set labels (4542 bytes) 
 
 These files are organized and renamed as images and labels under Training and Testing directories:
-├── Testing
-│   ├── images
-│   └── labels
-├── Training
-│   ├── images
-│   └── labels
+- ├── Testing
+- │   ├── images
+- │   └── labels
+- ├── Training
+- │   ├── images
+- │   └── labels
 
 ### IDX file format is a binary file format.
 The basic format is
